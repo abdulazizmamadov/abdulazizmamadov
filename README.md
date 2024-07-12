@@ -62,4 +62,5 @@ I am a junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ### :writing_hand: Blog Posts :
 
-<a href="https://t.me/error404_blob">View Telegram chanel</a>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
